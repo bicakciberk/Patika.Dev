@@ -35,6 +35,15 @@
     myName.innerHTML = `${userName}`
 
 
+    function zaman(){
+      let date = new Date().toLocaleString();
+      document.getElementById(`myClock`).innerHTML = date;
+
+    }
+
+    setInterval(zaman, 1000)
+
+
   </script>
 </body>
 
