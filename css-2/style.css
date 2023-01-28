@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#input{
+    text-align: center;
+    background-color: lightgrey;
+
+}
+
+.logo{
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+#special{
+    width:500px;
+    height: 80px;
+    background-color: aqua;
+}
+
+#help{
+
+    background-color: aquamarine;
+    width: 200px;
+    height: 80px;
+}
+
+#email{
+    background-color: green;
+    width: 500px;
+    height: 80px;
+}
+
+.box{
+    margin: 0px auto 0px 150px;
+    float:left;
+    display: flex;
+}
+
+.buttons button{
+    margin-top: 10px;
+}
+
+#text{
+    width: 300px;
+    height: 30px;
+}
+
+.copyright{
+    margin-top: 100px;
+    text-align:  center;
+}
+
+#help a{
+    display: block;
+}
+
+#special a{
+    display: block;
+}
