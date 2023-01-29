@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*anasayfa*/
+body{
+    background-color: black;
+}
+
+.muzik{
+    color: red;
+    margin-bottom: 20px;
+}
+
+.anasayfa{
+    color: #F273E6;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.home{
+    text-align: center;
+}
+
+h4{
+    color: #FF8B13;
+    margin-top: 20px;
+}
+
+a{
+    margin: 10px;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+}
+/*urunlerimiz*/
+.urunlerimiz{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.urunlerimiz ol img{
+    margin-bottom: 40px;
+}
+
+#urunlerimiz{
+    color: #F273E6;
+}
+
+#row-1{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+/*hakkımızda*/
+#vizyon, #misyon{
+    color: #FF8B13;
+}
+
+.hakkimizda{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.vizyonInformation, .misyonInformation{
+    width: 1400px;
+}
+
